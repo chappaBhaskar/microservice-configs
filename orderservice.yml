@@ -60,5 +60,6 @@ management:
       exposure:
         include: refresh,health,info
 app:
-  message: "Order service initial message"
+  message: "Updated message from GitHub"
+
 
